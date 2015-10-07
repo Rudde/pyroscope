@@ -1,0 +1,1 @@
+See [GitHub](https://github.com/pyroscope/pyrocore#installation) instead.
